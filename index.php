@@ -9,7 +9,7 @@ $categories = [
     'Shopping'      => 'Shopping',
     'Education'     => 'Education',
     'Sports'        => 'Sports',
-    'Other'         => 'Others'
+    'Other'         => 'Other'
 ];
 
 require_once __DIR__ . '/dbcon.php';
