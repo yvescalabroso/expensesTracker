@@ -1,6 +1,6 @@
 <?php
 $username = "postgres";
-$password = "caincay";
+$password = "yves";
 
 try {
     $dbcon = new PDO("pgsql:host=localhost;port=5432;dbname=expenses_db", $username, $password);
